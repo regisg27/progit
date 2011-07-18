@@ -19,7 +19,7 @@ Ensuite, vous apprendrez les mécanismes de transport/transmission/communication
 ## Plomberie et porcelaine ##
 
 Ce livre couvre l'utilisation de Git avec une trentaine de verbes comme `checkout`, `branch`, `remote` ...
-Mais, puisque Git était initialement une boîte à outils (N.d.T : Toolkit) pour VCS, plutôt d'un VCS complet et conviviale, il dispose de tout un ensemble d'action pour les tâches bas niveau qui étaient conçues pour être liées à la UNIX ou appelées depuis de scripts.
+Mais, puisque Git était initialement une boîte à outils (N.d.T : Toolkit) pour VCS, plutôt qu'un VCS complet et convivial, il dispose de tout un ensemble d'action pour les tâches bas niveau qui étaient conçues pour être liées à la UNIX ou appelées depuis de scripts.
 Ces commandes sont dites commandes de "plomberie" (N.d.T "plumbing"), et les autres, plus conviviales sont appelées "porcelaines" (N.d.T : "porcelain").
 
 Les huit premiers chapitres du livre concernent presque exclusivement les commandes porcelaine.
